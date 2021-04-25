@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\changerContenuLivre\changerContenuLivre\bin\Debug\changerContenuLivre.exe.config
+C:\Users\PC\source\repos\changerContenuLivre\changerContenuLivre\bin\Debug\changerContenuLivre.exe
+C:\Users\PC\source\repos\changerContenuLivre\changerContenuLivre\bin\Debug\changerContenuLivre.pdb
+C:\Users\PC\source\repos\changerContenuLivre\changerContenuLivre\obj\Debug\changerContenuLivre.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\changerContenuLivre\changerContenuLivre\obj\Debug\changerContenuLivre.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\changerContenuLivre\changerContenuLivre\obj\Debug\changerContenuLivre.exe
+C:\Users\PC\source\repos\changerContenuLivre\changerContenuLivre\obj\Debug\changerContenuLivre.pdb
+F:\Utilisateur\PC\PC\source\repos\changerContenuLivre\changerContenuLivre\bin\Debug\changerContenuLivre.exe.config
+F:\Utilisateur\PC\PC\source\repos\changerContenuLivre\changerContenuLivre\bin\Debug\changerContenuLivre.exe
+F:\Utilisateur\PC\PC\source\repos\changerContenuLivre\changerContenuLivre\bin\Debug\changerContenuLivre.pdb
+F:\Utilisateur\PC\PC\source\repos\changerContenuLivre\changerContenuLivre\obj\Debug\changerContenuLivre.csprojAssemblyReference.cache
+F:\Utilisateur\PC\PC\source\repos\changerContenuLivre\changerContenuLivre\obj\Debug\changerContenuLivre.csproj.CoreCompileInputs.cache
+F:\Utilisateur\PC\PC\source\repos\changerContenuLivre\changerContenuLivre\obj\Debug\changerContenuLivre.exe
+F:\Utilisateur\PC\PC\source\repos\changerContenuLivre\changerContenuLivre\obj\Debug\changerContenuLivre.pdb
